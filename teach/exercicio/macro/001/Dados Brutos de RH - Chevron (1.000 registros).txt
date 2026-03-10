@@ -1,0 +1,6 @@
+ID_Funcionario,Nome,Idade,Genero,Estado_Civil,Raca,Cargo,Departamento,Nivel_Cargo,Tempo_Empresa_meses,Tempo_Cargo_meses,Salario_Base,Bonus_Anual,Beneficios,Ultima_Promocao_meses,Avaliacao_Desempenho,Absenteísmo_dias,Horas_Extras_mensais,Local_Trabalho,Formacao_Educacional,Status
+F001,João Silva,35,Masculino,Casado,Branco,Engenheiro de Petróleo,Exploração e Produção,Senior,84,24,18500,18500,9500,12,4.5,3,12,Offshore,Mestrado,Ativo
+F002,Maria Santos,42,Feminino,Divorciado,Parda,Analista de RH,Recursos Humanos,Pleno,120,36,12500,8750,7500,24,4.2,5,8,Remoto,Graduação,Ativo
+F003,Carlos Oliveira,28,Masculino,Solteiro,Branco,Técnico de Segurança,SSMA,Júnior,36,18,8500,4250,5500,8,3.8,2,15,Plataforma,Técnico,Ativo
+F004,Ana Rodrigues,45,Feminino,Casado,Branca,Gerente Financeira,Finanças,Executivo,156,48,28500,42750,15000,6,4.8,1,5,Presencial,Pós-Graduação,Ativo
+F005,Pedro Costa,52,Masculino,Casado,Preto,Operador Sênior,Refino,Master,240,72,22500,33750,12000,36,4.6,4,20,Industrial,Ensino Médio,Ativo
